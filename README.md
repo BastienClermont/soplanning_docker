@@ -27,7 +27,7 @@ SOPlanning is an online planning tool designed to efficiently organize projects 
 
 ## docker-compose
 
-tbd
+tbds
 
 ## Kubernetes / Helm 
 
